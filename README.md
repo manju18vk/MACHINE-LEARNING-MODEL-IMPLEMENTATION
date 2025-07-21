@@ -65,6 +65,7 @@ Visualization: The confusion matrix and feature importance are visualized for be
 
 ------
 Output:
+<img width="1415" height="794" alt="Image" src="https://github.com/user-attachments/assets/4c07deb2-0738-4817-bc46-9eda77e56696" />
  
 
 **Contact**
